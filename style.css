@@ -1,0 +1,43 @@
+body{
+    font-family: "Open Sans", serif;
+}
+
+.landing-section-wrapper div{
+    display: inline-block;
+    width: 49%;
+    vertical-align: middle;
+}
+
+.landing-section-wrapper{
+    background-color: #0056D2;
+    height: 1000vh;
+    padding: 10rem;
+}
+
+.landing-content-wrapper h1{
+    color: white;
+    font-size: 2.8rem;
+    line-height: 3.7rem;
+}
+
+.landing-section-wrapper p{
+    color: rgb(222, 222, 222);
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 25px;
+    line-height: 1.6rem;
+}
+
+.landing-image-wrapper img{
+    border-radius: 15px;
+}
+
+.landing-content-wrapper button{
+    margin-top: 25px;
+    border: none;
+    color: #0056D2;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: 800;
+
+}
